@@ -3,7 +3,8 @@ This Github repository is to show what I have created since I started programmin
 
 Projects done during the timespand August 2015 - June 2018 was done during my bachelor in Game Techologies and Simulation.
 
-I am currently working on learning new languages, which will be added once I have completed project relevant to that language:
+I am currently working on learning new languages, which will be added once I have completed relevant projects.
+Here is a list of fields I want / have started to explore:
 Python (Machine learning)
 Java (Android development)
 JavaScript / HTML (Fullstack development).
