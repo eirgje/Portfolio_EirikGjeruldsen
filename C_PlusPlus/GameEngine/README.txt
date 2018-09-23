@@ -5,6 +5,6 @@ Comments on functionality can be found in the HEADER-files.
 QT-libraries have been used.
 QT- UI has been used to visualize the GUI elements.
 
-If you want to see some of the results from the code, some of it will be contained within this YouTube video:
+Video represnetation of the code can be found within this YouTube video:
 
 https://www.youtube.com/watch?v=0ZjJD7LYnrg
