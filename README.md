@@ -1,2 +1,14 @@
 # Portfolio_EirikGjeruldsen
-This is to show the portfolio of Eirik Gjeruldsen, remember to read the README.txt files to get an overview from each folder.
+This Github repository is to show what I have created since I started programming in late 2015.
+
+Projects done during the timespand August 2015 - June 2018 was done during my bachelor in Game Techologies and Simulation.
+
+I am currently working on learning new languages, which will be added once I have completed project relevant to that language:
+Python (Machine learning)
+Java (Android development)
+JavaScript / HTML (Fullstack development).
+
+Currently enrolled in Østfold University College, doing my master in Applied Computer Science.
+Where I am hoping to learn how to implement machine learning into fields I find interesting.
+
+If you have any questions regarding my Portfolio you can contact me at: eirgje@gmail.com.
