@@ -1,0 +1,1 @@
+This enemy was removed two months into development.
